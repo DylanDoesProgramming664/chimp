@@ -1,0 +1,8 @@
+let isChimpGood = false;
+
+let chimpStatus = if isChimpGood == true {
+    0
+} else {
+    1
+} //chimpStatus => 1
+

@@ -1,0 +1,5 @@
+let addTwo = fn(int x) {
+    return x + 2;
+};
+
+let result = addTwo(3);
